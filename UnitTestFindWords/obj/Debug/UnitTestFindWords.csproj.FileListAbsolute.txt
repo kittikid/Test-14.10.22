@@ -1,0 +1,17 @@
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\UnitTestFindWords.dll
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\UnitTestFindWords.pdb
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\TestWork.exe
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\TestWork.pdb
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\TestWork.exe.config
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\obj\Debug\UnitTestFindWords.csprojAssemblyReference.cache
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\obj\Debug\UnitTestFindWords.csproj.CoreCompileInputs.cache
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\obj\Debug\UnitTestFindWords.csproj.CopyComplete
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\obj\Debug\UnitTestFindWords.dll
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\UnitTestFindWords\obj\Debug\UnitTestFindWords.pdb

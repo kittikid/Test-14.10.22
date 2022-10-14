@@ -1,0 +1,10 @@
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\bin\Debug\TestWork.exe.config
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\bin\Debug\TestWork.exe
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\bin\Debug\TestWork.pdb
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\obj\Debug\TestWork.csprojAssemblyReference.cache
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\obj\Debug\TestWork.Form1.resources
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\obj\Debug\TestWork.Properties.Resources.resources
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\obj\Debug\TestWork.csproj.GenerateResource.cache
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\obj\Debug\TestWork.csproj.CoreCompileInputs.cache
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\obj\Debug\TestWork.exe
+D:\4ИС2\NUZHIN\Контрольная 14.10.2022\TestWork\TestWork\obj\Debug\TestWork.pdb
